@@ -1,0 +1,39 @@
+stocks:
+  - code: VNM
+    name: Vinamilk
+    exchange: HOSE
+    buy_good:
+      low: 56000
+      high: 58000
+    buy_great:
+      low: 52000
+      high: 54000
+    stop_loss: 53000
+    tp1: 68000
+    tp2: 75000
+
+  - code: ACB
+    name: Ngân hàng Á Châu
+    exchange: HOSE
+    buy_good:
+      low: 21500
+      high: 22500
+    buy_great:
+      low: 20000
+      high: 21000
+    stop_loss: 20500
+    tp1: 28000
+    tp2: 31000
+
+  - code: HPG
+    name: Hòa Phát
+    exchange: HOSE
+    buy_good:
+      low: 24500
+      high: 25500
+    buy_great:
+      low: 22000
+      high: 23500
+    stop_loss: 23000
+    tp1: 32000
+    tp2: 36000

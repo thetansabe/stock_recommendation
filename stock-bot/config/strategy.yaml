@@ -1,0 +1,19 @@
+portfolio:
+  total_capital: 13000000
+  allocation:
+    VNM: 0.30
+    ACB: 0.35
+    HPG: 0.35
+
+dca:
+  rounds: 3
+  interval_days: 10
+
+market_conditions:
+  vnindex_floor: 1645
+  oil_price_ceiling: 150
+
+schedule:
+  check_interval: "*/5 9-15 * * 1-5"
+  daily_report: "0 20 * * 1-5"
+  weekend_summary: "0 10 * * 6"
