@@ -1,0 +1,16 @@
+# Binary
+stock-bot
+
+# Database
+*.db
+
+# Environment
+.env
+
+# OS
+**/.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
